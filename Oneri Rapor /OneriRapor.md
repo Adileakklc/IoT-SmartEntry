@@ -24,12 +24,12 @@ Bu proje, RFID tabanlı bir IoT kapı kilidi sistemidir. Kullanıcılar, yetkile
 
 ## 4. Kaynak Planlaması
 
-| Görev                      | Sorumlu      |
-| -------------------------- | ------------ |
-| Donanım Bağlantıları       | Adile        |
-| Arduino Kodlama            | Grup Üyesi 1 |
-| Firebase Entegrasyonu      | Grup Üyesi 2 |
-| Test ve Raporlama          | Grup Üyesi 3 |
+| Görev                      |    Sorumlu      |
+| -------------------------- | --------------- |
+| Donanım Bağlantıları       | Adile Akkılıç   |
+| Arduino Kodlama            | Dilek Yılmaz    |
+| Firebase Entegrasyonu      | Sude Telli      |
+| Test ve Raporlama          | Şevval Nur Öksüz|
 
 **Gereken Donanımlar ve Tahmini Maliyet:**
 
